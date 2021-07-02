@@ -1,0 +1,15 @@
+%nprocshared=5
+%chk=h3.chk
+# pop=nboread hf/sto-3g
+
+Title Card Required
+
+1 1
+ H                  0.00000000    0.00000000    0.00000000
+ H                  0.00000000    0.00000000    0.85261200
+ H                  0.00000000    0.00000000   -0.85261200
+
+$NBO archive file=h3 $END
+
+
+
